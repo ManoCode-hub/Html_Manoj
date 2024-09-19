@@ -1,0 +1,17 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: rgb(51, 73, 153);
+    color: rgb(237, 84, 18);
+}
+.dl{
+    color: darkkhaki;
+}
+
+img {
+   justify-content: left; 
+   align-items: center;
+   width: 104px;
+   height: 142px;
+}
